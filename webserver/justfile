@@ -1,6 +1,9 @@
+set shell := ['powershell']
+
 build:
     cargo build
 run:
+    just build
     cargo run
 test:
     cargo test

@@ -1,0 +1,10 @@
+C:\Users\Blunt\Desktop\rust\kitchen-sink\webserver\target\debug\deps\libidna-1d275e1c2a4430f7.rmeta: C:\Users\Blunt\.cargo\registry\src\index.crates.io-6f17d22bba15001f\idna-0.5.0\src\lib.rs C:\Users\Blunt\.cargo\registry\src\index.crates.io-6f17d22bba15001f\idna-0.5.0\src\punycode.rs C:\Users\Blunt\.cargo\registry\src\index.crates.io-6f17d22bba15001f\idna-0.5.0\src\uts46.rs C:\Users\Blunt\.cargo\registry\src\index.crates.io-6f17d22bba15001f\idna-0.5.0\src\uts46_mapping_table.rs
+
+C:\Users\Blunt\Desktop\rust\kitchen-sink\webserver\target\debug\deps\libidna-1d275e1c2a4430f7.rlib: C:\Users\Blunt\.cargo\registry\src\index.crates.io-6f17d22bba15001f\idna-0.5.0\src\lib.rs C:\Users\Blunt\.cargo\registry\src\index.crates.io-6f17d22bba15001f\idna-0.5.0\src\punycode.rs C:\Users\Blunt\.cargo\registry\src\index.crates.io-6f17d22bba15001f\idna-0.5.0\src\uts46.rs C:\Users\Blunt\.cargo\registry\src\index.crates.io-6f17d22bba15001f\idna-0.5.0\src\uts46_mapping_table.rs
+
+C:\Users\Blunt\Desktop\rust\kitchen-sink\webserver\target\debug\deps\idna-1d275e1c2a4430f7.d: C:\Users\Blunt\.cargo\registry\src\index.crates.io-6f17d22bba15001f\idna-0.5.0\src\lib.rs C:\Users\Blunt\.cargo\registry\src\index.crates.io-6f17d22bba15001f\idna-0.5.0\src\punycode.rs C:\Users\Blunt\.cargo\registry\src\index.crates.io-6f17d22bba15001f\idna-0.5.0\src\uts46.rs C:\Users\Blunt\.cargo\registry\src\index.crates.io-6f17d22bba15001f\idna-0.5.0\src\uts46_mapping_table.rs
+
+C:\Users\Blunt\.cargo\registry\src\index.crates.io-6f17d22bba15001f\idna-0.5.0\src\lib.rs:
+C:\Users\Blunt\.cargo\registry\src\index.crates.io-6f17d22bba15001f\idna-0.5.0\src\punycode.rs:
+C:\Users\Blunt\.cargo\registry\src\index.crates.io-6f17d22bba15001f\idna-0.5.0\src\uts46.rs:
+C:\Users\Blunt\.cargo\registry\src\index.crates.io-6f17d22bba15001f\idna-0.5.0\src\uts46_mapping_table.rs:

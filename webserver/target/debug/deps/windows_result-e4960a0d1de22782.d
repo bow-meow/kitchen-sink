@@ -1,0 +1,11 @@
+C:\Users\Blunt\Desktop\rust\kitchen-sink\webserver\target\debug\deps\libwindows_result-e4960a0d1de22782.rmeta: C:\Users\Blunt\.cargo\registry\src\index.crates.io-6f17d22bba15001f\windows-result-0.2.0\src/lib.rs C:\Users\Blunt\.cargo\registry\src\index.crates.io-6f17d22bba15001f\windows-result-0.2.0\src\bindings.rs C:\Users\Blunt\.cargo\registry\src\index.crates.io-6f17d22bba15001f\windows-result-0.2.0\src\com.rs C:\Users\Blunt\.cargo\registry\src\index.crates.io-6f17d22bba15001f\windows-result-0.2.0\src\strings.rs C:\Users\Blunt\.cargo\registry\src\index.crates.io-6f17d22bba15001f\windows-result-0.2.0\src\bstr.rs C:\Users\Blunt\.cargo\registry\src\index.crates.io-6f17d22bba15001f\windows-result-0.2.0\src\error.rs C:\Users\Blunt\.cargo\registry\src\index.crates.io-6f17d22bba15001f\windows-result-0.2.0\src\hresult.rs
+
+C:\Users\Blunt\Desktop\rust\kitchen-sink\webserver\target\debug\deps\windows_result-e4960a0d1de22782.d: C:\Users\Blunt\.cargo\registry\src\index.crates.io-6f17d22bba15001f\windows-result-0.2.0\src/lib.rs C:\Users\Blunt\.cargo\registry\src\index.crates.io-6f17d22bba15001f\windows-result-0.2.0\src\bindings.rs C:\Users\Blunt\.cargo\registry\src\index.crates.io-6f17d22bba15001f\windows-result-0.2.0\src\com.rs C:\Users\Blunt\.cargo\registry\src\index.crates.io-6f17d22bba15001f\windows-result-0.2.0\src\strings.rs C:\Users\Blunt\.cargo\registry\src\index.crates.io-6f17d22bba15001f\windows-result-0.2.0\src\bstr.rs C:\Users\Blunt\.cargo\registry\src\index.crates.io-6f17d22bba15001f\windows-result-0.2.0\src\error.rs C:\Users\Blunt\.cargo\registry\src\index.crates.io-6f17d22bba15001f\windows-result-0.2.0\src\hresult.rs
+
+C:\Users\Blunt\.cargo\registry\src\index.crates.io-6f17d22bba15001f\windows-result-0.2.0\src/lib.rs:
+C:\Users\Blunt\.cargo\registry\src\index.crates.io-6f17d22bba15001f\windows-result-0.2.0\src\bindings.rs:
+C:\Users\Blunt\.cargo\registry\src\index.crates.io-6f17d22bba15001f\windows-result-0.2.0\src\com.rs:
+C:\Users\Blunt\.cargo\registry\src\index.crates.io-6f17d22bba15001f\windows-result-0.2.0\src\strings.rs:
+C:\Users\Blunt\.cargo\registry\src\index.crates.io-6f17d22bba15001f\windows-result-0.2.0\src\bstr.rs:
+C:\Users\Blunt\.cargo\registry\src\index.crates.io-6f17d22bba15001f\windows-result-0.2.0\src\error.rs:
+C:\Users\Blunt\.cargo\registry\src\index.crates.io-6f17d22bba15001f\windows-result-0.2.0\src\hresult.rs:
