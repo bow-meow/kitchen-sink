@@ -1,4 +1,4 @@
-set shell := ['powershell']
+set shell := ["nu", "-c"]
 
 build:
     cargo build
