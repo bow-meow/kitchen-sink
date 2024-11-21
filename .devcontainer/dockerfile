@@ -2,6 +2,7 @@
 FROM ubuntu:latest
 
 RUN apt-get update && apt-get install -y \
+    unzip \
     pkg-config \
     libssl-dev \
     curl \
@@ -19,8 +20,12 @@ ENV PATH="/root/.cargo/bin:${PATH}"
 # Verify installation
 RUN rustc --version && cargo --version
 
-RUN cargo install nu
-RUN cargo install just
+RUN curl -sSL https://github.com/nushell/nushell/releases/latest/download/nu-ubuntu.zip -o nu.zip \
+    && unzip nu.zip -d nushell \
+    && mv nushell/nu* /usr/local/bin/ \
+    && rm -rf nu.zip nushell
+
+RUN curl -sSL https://just.systems/install.sh | bash -s -- --to /usr/local/bin
 
 # Set default command (optional)
-CMD ["bash"]
+CMD ["nu"]
