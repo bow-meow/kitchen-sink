@@ -1,7 +1,7 @@
 {
     "name": "Rust Development Environment",
     "build": {
-      "dockerfile": "Dockerfile",
+      "dockerfile": "dockerfile",
       "context": ".."
     },
     "remoteUser": "root",
