@@ -8,11 +8,42 @@
   "customizations": {
     "vscode": {
       "settings": {
+        "terminal.integrated.defaultProfile.linux": "nu",
+        "terminal.integrated.profiles.linux": {
+          "bash": {
+            "path": "bash",
+            "icon": "terminal-bash"
+          },
+          "zsh": {
+            "path": "zsh"
+          },
+          "fish": {
+            "path": "fish"
+          },
+          "tmux": {
+            "path": "tmux",
+            "icon": "terminal-tmux"
+          },
+          "pwsh": {
+            "path": "pwsh",
+            "icon": "terminal-powershell"
+          },
+          "nu": {
+            "path": "nu"
+          }
+        },
         "workbench.colorTheme": "Default Dark+"
       },
       "extensions": [
         "rust-lang.rust-analyze"
       ]
     }
-  }
+  },
+  "profiles": {
+    "linux": {
+      "nushell": {
+        "path": "/root/.cargo/bin/nu"  // Adjust path if needed
+      }
+    }
+  },
 }
