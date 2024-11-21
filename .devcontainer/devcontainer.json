@@ -1,1 +1,9 @@
-{"image":"mcr.microsoft.com/devcontainers/universal:2"}
+{
+    "name": "Rust Development Environment",
+    "build": {
+      "dockerfile": "Dockerfile",
+      "context": ".."
+    },
+    "remoteUser": "root",
+    "postCreateCommand": "cargo --version"
+  }
