@@ -1,0 +1,14 @@
+# Use the official Ubuntu image as the base image
+FROM ubuntu:latest
+
+# Install Rust using rustup
+RUN curl --proto '=https' --tlsv1.2 https://sh.rustup.rs -sSf | sh
+
+# Add Rust to the PATH
+ENV PATH="/root/.cargo/bin:${PATH}"
+
+# Verify installation
+RUN rustc --version && cargo --version
+
+# Set default command (optional)
+CMD ["bash"]
