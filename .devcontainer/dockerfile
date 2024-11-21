@@ -17,5 +17,8 @@ ENV PATH="/root/.cargo/bin:${PATH}"
 # Verify installation
 RUN rustc --version && cargo --version
 
+RUN cargo install nu
+RUN cargo install just
+
 # Set default command (optional)
 CMD ["bash"]

@@ -4,15 +4,15 @@
     "dockerfile": "dockerfile",
     "context": ".."
   },
-"postCreateCommand": "cargo --version",
-"customizations": {
-  "vscode": {
-    "settings": {
-      "workbench.colorTheme": "Default Dark+"
-    },
-    "extensions": [
-      "rust-lang.rust-analyze"
-    ]
+  "postCreateCommand": "cargo --version",
+  "customizations": {
+    "vscode": {
+      "settings": {
+        "workbench.colorTheme": "Default Dark+"
+      },
+      "extensions": [
+        "rust-lang.rust-analyze"
+      ]
+    }
   }
-}
 }
