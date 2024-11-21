@@ -4,6 +4,5 @@
       "dockerfile": "dockerfile",
       "context": ".."
     },
-    "remoteUser": "root",
     "postCreateCommand": "cargo --version"
   }
