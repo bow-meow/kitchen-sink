@@ -20,12 +20,9 @@ ENV PATH="/root/.cargo/bin:${PATH}"
 # Verify installation
 RUN rustc --version && cargo --version
 
-RUN curl -sSL https://github.com/nushell/nushell/releases/latest/download/nu-ubuntu.zip -o nu.zip \
-    && unzip nu.zip -d nushell \
-    && mv nushell/nu* /usr/local/bin/ \
-    && rm -rf nu.zip nushell
+RUN cargo install nu --locked
 
-RUN curl -sSL https://just.systems/install.sh | bash -s -- --to /usr/local/bin
+RUN cargo install just
 
 # Set default command (optional)
 CMD ["nu"]
