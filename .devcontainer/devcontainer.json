@@ -1,6 +1,6 @@
 {
   "name": "Rust Development Environment",
-  "image": "sharp_williamson:dockerimg:latest",
+  "image": "bowmeow:dockerimg:latest",
   // "build": {
   //   "dockerfile": "dockerfile",
   //   "context": ".."
