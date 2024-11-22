@@ -39,7 +39,8 @@
         "rust-lang.rust-analyzer",
         "skellock.just",
         "PolyMeilex.WGSL",
-        "TheNuProjectContributors.vscode-nushell-lang"
+        "TheNuProjectContributors.vscode-nushell-lang",
+        "rangav.ThunderClient"
       ]
     }
   }
