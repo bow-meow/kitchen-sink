@@ -1,9 +1,10 @@
 {
   "name": "Rust Development Environment",
-  "build": {
-    "dockerfile": "dockerfile",
-    "context": ".."
-  },
+  "image": "sharp_williamson:dockerimg:latest",
+  // "build": {
+  //   "dockerfile": "dockerfile",
+  //   "context": ".."
+  // },
   "postCreateCommand": "cargo --version",
   "customizations": {
     "vscode": {
