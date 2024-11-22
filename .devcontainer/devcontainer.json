@@ -1,6 +1,6 @@
 {
   "name": "Rust Development Environment",
-  "image": "bowmeow:dockerimg:latest",
+  "image": "bowmeow/redfanta:new",
   // "build": {
   //   "dockerfile": "dockerfile",
   //   "context": ".."
