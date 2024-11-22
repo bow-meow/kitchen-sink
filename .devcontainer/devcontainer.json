@@ -36,15 +36,8 @@
         "workbench.colorTheme": "Default Dark+"
       },
       "extensions": [
-        "rust-lang.rust-analyze"
+        "rust-lang.rust-analyzer"
       ]
     }
-  },
-  "profiles": {
-    "linux": {
-      "nushell": {
-        "path": "/root/.cargo/bin/nu"  // Adjust path if needed
-      }
-    }
-  },
+  }
 }
