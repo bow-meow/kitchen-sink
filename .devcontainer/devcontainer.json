@@ -40,7 +40,7 @@
         "skellock.just",
         "PolyMeilex.WGSL",
         "TheNuProjectContributors.vscode-nushell-lang",
-        "rangav.ThunderClient"
+        "rangav.vscode-thunder-client"
       ]
     }
   }
