@@ -36,7 +36,10 @@
         "workbench.colorTheme": "Default Dark+"
       },
       "extensions": [
-        "rust-lang.rust-analyzer"
+        "rust-lang.rust-analyzer",
+        "skellock.just",
+        "PolyMeilex.WGSL",
+        "TheNuProjectContributors.vscode-nushell-lang"
       ]
     }
   }
